@@ -14,25 +14,25 @@ app.listen(PORT, () => {
 });
 var teams=[{
     id:1,
-    name:"mohamad naji mohamad",
-    adress:"aydamoun akkar",
+    name:"mohamad ",
+    adress:" akkar",
     position:"team leader",
     salary:"1500$"
 },{
 id:2,
-name:"khoder alchami",
+name:"khoder ",
 adress:"sayda",
 position:"waiter",
 salary:"1000$"
 },{  id:3,
-    name:"youssef kasba",
+    name:"youssef ",
     adress:"koura",
     position:"manager",
     salary:"2000$"
 },{
     id:4,
-    name:"moustafa oumeis ",
-    adress:"karoon",
+    name:"moustafa  ",
+    adress:"beirut",
     position:"opperation manager",
     salary:"5000$"
 
